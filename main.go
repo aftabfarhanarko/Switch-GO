@@ -164,7 +164,6 @@ func main() {
 
 	fmt.Println("\n===== END OF PROGRAM =====")
 
-
 }
 
 // TYPE SWITCH FUNCTION
